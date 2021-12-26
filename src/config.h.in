@@ -1,0 +1,7 @@
+#ifndef ICLOUD_CONFIG_H
+#define ICLOUD_CONFIG_H
+
+#cmakedefine SQLITE3_FOUND
+#cmakedefine CURL_VERBOSE
+
+#endif /* ICLOUD_CONFIG_H */
